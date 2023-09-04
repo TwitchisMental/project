@@ -6,3 +6,6 @@
 </head>
 <body>
     <div id="container">
+        <div class="title_bar">
+        <h1>Title</h1>
+         </div>
