@@ -1,0 +1,19 @@
+body {
+    background: #000;
+    font: sans-serif 1em;
+    color: #fff;
+}
+
+#container {
+    background: #111;
+    max-width: 1600px;
+    width: unset;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.title_bar {
+    min-height: 30px;
+    color: #fff;
+    background: linear-gradient(180deg, rgba(0,59,119,1) 0%, rgba(0,17,32,1) 100%);
+}
