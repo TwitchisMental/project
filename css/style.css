@@ -2,14 +2,18 @@ body {
     background: #000;
     font: sans-serif 1em;
     color: #fff;
+    padding: 0px;
+    margin: 0px;
+    min-height: 100%;
 }
 
 #container {
-    background: #111;
+    background: #222;
     max-width: 1600px;
     width: unset;
     margin: 0 auto;
     color: #fff;
+    min-height: 100%;
 }
 
 .title_bar {
