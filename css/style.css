@@ -4,7 +4,7 @@ body {
     color: #fff;
     padding: 0px;
     margin: 0px;
-    min-height: 100%;
+    min-height: 100vh;
 }
 
 #container {
@@ -13,7 +13,6 @@ body {
     width: unset;
     margin: 0 auto;
     color: #fff;
-    min-height: 100%;
 }
 
 .title_bar {
